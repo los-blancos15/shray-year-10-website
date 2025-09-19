@@ -1,1 +1,9 @@
 
+body {
+    background-color: #0A1A64; /* Champions League blue */
+    color: #FFFFFF; /* White text */
+}
+a {
+  color: red;
+  text-decoration: none;
+}
